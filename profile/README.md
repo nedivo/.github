@@ -19,9 +19,11 @@ To get started with our repositories, you can:
 3. **Stay Updated:** Follow us on GitHub for the latest projects and updates.
 
 ## Connect with Us
-Website: [Nedivo](https://nedivo.co)
-Instagram: [Nedivo Instagram](https://www.instagram.com/nedivo.co/)
-LinkedIn: [Nedivo LinkedIn](https://www.linkedin.com/company/nedivo)
-Facebook: [Nedivo Facebook](https://www.facebook.com/people/Nedivo/61552116476481/)
-Contact: [info@nedivo.co​​](mailto:info@nedivo.co)
+* Website: [Nedivo](https://nedivo.co)
+* Instagram: [Nedivo Instagram](https://www.instagram.com/nedivo.co/)
+* LinkedIn: [Nedivo LinkedIn](https://www.linkedin.com/company/nedivo)
+* Facebook: [Nedivo Facebook](https://www.facebook.com/people/Nedivo/61552116476481/)
+* Contact: [info@nedivo.co​​](mailto:info@nedivo.co)
+
+
 Thank you for visiting our GitHub page. Join us in empowering businesses with AI-driven customer service solutions!
